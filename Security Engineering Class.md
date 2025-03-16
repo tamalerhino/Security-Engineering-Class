@@ -17,7 +17,7 @@
    - [How Websites Work](https://tryhackme.com/r/room/howwebsiteswork)  
    - [Putting-It-All-Together](https://tryhackme.com/r/room/puttingitalltogether) 
 - Go through the exercises from the video: [CURL API Testing Tutorial](https://www.youtube.com/watch?v=fVmHqtjFzbA) (Use [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/) for practice)
-- Do additional exercises to further understand working with APIs: APIs with Pokemon
+- Do additional exercises to further understand working with APIs: [APIs with Pokemon](Supporting%20Documents/APIs%20with%20Pokemon.md)
 
 
 ## Week 2: Encryption Basics
