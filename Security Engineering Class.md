@@ -43,7 +43,7 @@ Follow this tutorial on practical basic encryption (no sign-up required):
 - [AES GCM](https://www.youtube.com/watch?v=-fpVv_T4xwA&t=85s)  
 - [AES Stick Guide (Just for fun)](https://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 
-**Lab:** Go through the following exercise: Practical AES Exercise
+**Lab:** Go through the following exercise: [Practical AES Exercise](Supporting%20Documents/practical_aes_exercise.md)
 
 
 ## Week 4: Introduction to PKI & Digital Signatures
