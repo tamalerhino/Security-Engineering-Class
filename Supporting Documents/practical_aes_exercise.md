@@ -11,8 +11,6 @@
 
 In AES, messages are broken down and arranged in a 4x4 grid (matrix). This matrix is transformed in a special way so the message gets scrambled. Here, we’ll mimic a similar process to encrypt and decrypt a message.
 
----
-
 ## Step 1: Write a Secret Message (Plaintext)
 
 Think of a short 16-letter message. If it’s shorter, you can fill in extra letters (like "X") at the end. For example: `"UlisesIsCool"`, which is 12 characters long. Since the matrix needs 16 slots (a 4x4 grid), add `"XXXX"` as padding at the end. The full message becomes `"UlisesIsCoolXXXX"`.
@@ -24,8 +22,6 @@ Write each letter of the message into the **4x4 matrix** starting from the top-l
 | E | S | I | S |
 | C | O | O | L |
 | X | X | X | X |
-
----
 
 ## Step 2: Encrypt the Message – Apply Row Shifting
 
@@ -52,8 +48,6 @@ So the encrypted matrix is now:
 
 This scrambled matrix represents our **encrypted message**.
 
----
-
 ## Step 3: Decrypt the Message – Reverse the Row Shifts
 
 To get back the original message, reverse the shifts:
@@ -77,13 +71,9 @@ So the matrix returns to:
 | C | O | O | L |
 | X | X | X | X |
 
----
-
 ## Step 4: Read the Original Message
 
 Reading left to right, top to bottom, the decrypted message is **"UlisesIsCoolXXXX"**, revealing **"UlisesIsCool"** as the original text!
-
----
 
 ## Keep in Mind: How AES Works in Real Life
 
