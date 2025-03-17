@@ -84,6 +84,7 @@ Modifying Group Permissions on a Shared File.
 sudo chmod 440 /corp_sec_shared/shared_file.txt
 ```
 2. **Test:** Log in as Ulises or Brian and attempt to write to the shared_file.txt.
+
 **Expected Result:** Both users should see a Permission denied message, as the file is now read-only for the group.
 ## Step 4: Clean-Up (Optional)
 Remove the created users, group, and directories if they’re no longer needed:
