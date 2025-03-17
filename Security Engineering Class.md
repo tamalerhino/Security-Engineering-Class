@@ -194,7 +194,7 @@ Use this time to review or catch up on lessons.
 - [Linux File Permissions](https://www.youtube.com/watch?v=LnKoncbQBsM)  
 - [Learn VIM!!](https://www.youtube.com/watch?v=ggSyF1SVFr4)
 
-**Lab:** Go through the following exercise: Linux User and Group Management Lab
+**Lab:** Go through the following exercise: [Linux User and Group Management Lab](Supporting%20Documents/Linux_User_and_Group_Management_Lab.md)
 
 
 ## Week 3: Managing Services, Processes, and Basic Networking
@@ -231,7 +231,7 @@ Use this time to review or catch up on lessons.
 **Lab:** Go through the following exercises:
 - [Basic Bash Scripting (TryHackMe)](https://tryhackme.com/r/room/bashscripting)  
 - [NMAP (TryHackMe)](https://tryhackme.com/r/room/nmap01)  
-- WAF Exercise: Configuring and Testing a Basic WAF with ModSecurity
+- [WAF Exercise: Configuring and Testing a Basic WAF with ModSecurity](Supporting%20Documents/waf_exercise.md)
 
 
 # Month 5: Understanding Programming, Version Control Basics, and Web Development Roles
