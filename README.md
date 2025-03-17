@@ -7,63 +7,61 @@ Each month covers a specific domain, broken down into weekly topics and labs or 
 
 ## Table of Contents
 
-- [Month 1: Foundations in Web Security and Encryption](#month-1-foundations-in-web-security-and-encryption)
-  - [Week 1: Introduction to Web Security Basics](#week-1-introduction-to-web-security-basics)
-  - [Week 2: Encryption Basics](#week-2-encryption-basics)
-  - [Week 3: Symmetric Encryption](#week-3-symmetric-encryption)
-  - [Week 4: Introduction to PKI & Digital Signatures](#week-4-introduction-to-pki--digital-signatures)
-- [Month 2: Advanced Encryption Techniques & Secure Communications](#month-2-advanced-encryption-techniques--secure-communications)
-  - [Week 1: TLS and Secure Protocols](#week-1-tls-and-secure-protocols)
-  - [Week 2: Cryptographic Hashing and HMAC](#week-2-cryptographic-hashing-and-hmac)
-  - [Week 3: Introduction to HSMs](#week-3-introduction-to-hsms)
-  - [Week 4: Practical PKI and Certificate Management](#week-4-practical-pki-and-certificate-management)
-- [Month 3: Application(API) Security](#month-3-applicationapi-security)
-  - [Week 1: API and AuthN/Z](#week-1-api-and-authnz)
-  - [Week 2: SQL Injection](#week-2-sql-injection)
-  - [Week 3: XSS and CSRF Attacks](#week-3-xss-and-csrf-attacks)
-  - [Week 4: Break](#week-4-break-1)
-- [Month 4: Linux Fundamentals with Basic Networking and Firewalling](#month-4-linux-fundamentals-with-basic-networking-and-firewalling)
-  - [Week 1: Introduction to Linux and the Command Line](#week-1-introduction-to-linux-and-the-command-line)
-  - [Week 2: File and Directory Permissions](#week-2-file-and-directory-permissions)
-  - [Week 3: Managing Services, Processes, and Basic Networking](#week-3-managing-services-processes-and-basic-networking)
-  - [Week 4: Scripting Basics for Automation and Advanced Networking](#week-4-scripting-basics-for-automation-and-advanced-networking)
-- [Month 5: Understanding Programming, Version Control Basics, and Web Development Roles](#month-5-understanding-programming-version-control-basics-and-web-development-roles)
-  - [Week 1: Computer Architecture and Machine Code](#week-1-computer-architecture-and-machine-code)
-  - [Week 2: Secure Coding Practices](#week-2-secure-coding-practices)
-  - [Week 3: Introduction to Front-End and Back-End Development](#week-3-introduction-to-front-end-and-back-end-development)
-  - [Week 4: Git Version Control and Collaborative Development](#week-4-git-version-control-and-collaborative-development)
-- [Month 6: Python Programming Fundamentals](#month-6-python-programming-fundamentals)
-  - [Week 1 & 2: Introduction to Python Basics](#week-1--2-introduction-to-python-basics)
-  - [Week 3: Continued Introduction to Python Basics](#week-3-continued-introduction-to-python-basics)
-  - [Week 4: Project – Password Strength Checker](#week-4-project--password-strength-checker)
-- [Month 7: Advance Python Programming and Databases](#month-7-advance-python-programming-and-databases)
-  - [Week 1: Introduction to Databases and SQL Basics](#week-1-introduction-to-databases-and-sql-basics)
-  - [Week 2: Setting Up SQLite with Python](#week-2-setting-up-sqlite-with-python)
-  - [Week 3: Querying and Retrieving Data in Python](#week-3-querying-and-retrieving-data-in-python)
-  - [Week 4: Building a Simple Python Application with Database](#week-4-building-a-simple-python-application-with-database)
-- [Month 8: Threat Modeling](#month-8-threat-modeling)
-  - [Week 1: Introduction to Threat Modeling Fundamentals](#week-1-introduction-to-threat-modeling-fundamentals)
-  - [Week 2 & 3: Common Threat Modeling Methodologies](#week-2--3-common-threat-modeling-methodologies)
-  - [Week 4: Break](#week-4-break-2)
-- [Month 9: CI/CD Fundamentals, S-SDLC and Basic Pipelines with Jenkins](#month-9-cicd-fundamentals-s-sdlc-and-basic-pipelines-with-jenkins)
-  - [Week 1: Introduction to CI/CD Concepts and Pipeline Basics](#week-1-introduction-to-cicd-concepts-and-pipeline-basics)
-  - [Week 2: Setting Up Jenkins and Creating Your First Pipeline](#week-2-setting-up-jenkins-and-creating-your-first-pipeline)
-  - [Week 3 & 4: Project – Create a Full CI/CD Pipeline in Jenkins](#week-3--4-project--create-a-full-cicd-pipeline-in-jenkins)
-- [Month 10: Basics of Containerization with Docker](#month-10-basics-of-containerization-with-docker)
-  - [Week 1: Introduction to Containerization](#week-1-introduction-to-containerization)
-  - [Week 2: Understanding Docker and Dockerfiles](#week-2-understanding-docker-and-dockerfiles)
-  - [Week 3: Building and Managing Containers](#week-3-building-and-managing-containers)
-  - [Week 4: Networking and Managing Persistent Data in Containers](#week-4-networking-and-managing-persistent-data-in-containers)
-- [Month 11: Secure Coding and Intro to Supply Chain Security](#month-11-secure-coding-and-intro-to-supply-chain-security)
-  - [Week 1: Introduction to Secure Coding in Python](#week-1-introduction-to-secure-coding-in-python)
-  - [Week 2: Software Supply Chain Security and Dependency Management](#week-2-software-supply-chain-security-and-dependency-management)
-  - [Week 3: Software Supply Chain Security Tools](#week-3-software-supply-chain-security-tools)
-  - [Week 4: Final Project – Build a Secure CI/CD Pipeline](#week-4-final-project--build-a-secure-cicd-pipeline)
-- [Month 12: Cloud Security Fundamentals](#month-12-cloud-security-fundamentals)
-  - [Week 1: Introduction to Cloud Security and Cloud Service Models](#week-1-introduction-to-cloud-security-and-cloud-service-models)
-  - [Week 2: Identity and Access Management (IAM)](#week-2-identity-and-access-management-iam)
-  - [Week 3: Network Security in the Cloud](#week-3-network-security-in-the-cloud)
-  - [Week 4: Data Security and Compliance in the Cloud](#week-4-data-security-and-compliance-in-the-cloud)
-- [Final Project: Deploy an App in the Cloud](#final-project-deploy-an-app-in-the-cloud)
-- [License](#license)
-- [Contribution](#contribution)
+- Month 1: Foundations in Web Security and Encryption
+  - Week 1: Introduction to Web Security Basics
+  - Week 2: Encryption Basics
+  - Week 3: Symmetric Encryption
+  -  Week 4: Introduction to PKI & Digital Signatures
+-  Month 2: Advanced Encryption Techniques & Secure Communications
+  -  Week 1: TLS and Secure Protocols
+  -  Week 2: Cryptographic Hashing and HMAC
+  -  Week 3: Introduction to HSMs
+  -  Week 4: Practical PKI and Certificate Management
+-  Month 3: Application(API) Security
+  -  Week 1: API and AuthN/Z
+  -  Week 2: SQL Injection
+  -  Week 3: XSS and CSRF Attacks
+  -  Week 4: Break
+-  Month 4: Linux Fundamentals with Basic Networking and Firewalling
+  -  Week 1: Introduction to Linux and the Command Line
+  -  Week 2: File and Directory Permissions
+  -  Week 3: Managing Services, Processes, and Basic Networking
+  -  Week 4: Scripting Basics for Automation and Advanced Networking
+-  Month 5: Understanding Programming, Version Control Basics, and Web Development Roles
+  -  Week 1: Computer Architecture and Machine Code
+  -  Week 2: Secure Coding Practices
+  -  Week 3: Introduction to Front-End and Back-End Development
+  -  Week 4: Git Version Control and Collaborative Development
+-  Month 6: Python Programming Fundamentals
+  -  Week 1 & 2: Introduction to Python Basics
+  -  Week 3: Continued Introduction to Python Basics
+  -  Week 4: Project – Password Strength Checker
+-  Month 7: Advance Python Programming and Databases
+  -  Week 1: Introduction to Databases and SQL Basics
+  -  Week 2: Setting Up SQLite with Python
+  -  Week 3: Querying and Retrieving Data in Python
+  -  Week 4: Building a Simple Python Application with Database
+-  Month 8: Threat Modeling
+  -  Week 1: Introduction to Threat Modeling Fundamentals
+  -  Week 2 & 3: Common Threat Modeling Methodologies
+  -  Week 4: Break
+-  Month 9: CI/CD Fundamentals, S-SDLC and Basic Pipelines with Jenkins
+  -  Week 1: Introduction to CI/CD Concepts and Pipeline Basics
+  -  Week 2: Setting Up Jenkins and Creating Your First Pipeline
+  -  Week 3 & 4: Project – Create a Full CI/CD Pipeline in Jenkins
+-  Month 10: Basics of Containerization with Docker
+  -  Week 1: Introduction to Containerization
+  -  Week 2: Understanding Docker and Dockerfiles
+  -  Week 3: Building and Managing Containers
+  -  Week 4: Networking and Managing Persistent Data in Containers
+-  Month 11: Secure Coding and Intro to Supply Chain Security
+  -  Week 1: Introduction to Secure Coding in Python
+  -  Week 2: Software Supply Chain Security and Dependency Management
+  -  Week 3: Software Supply Chain Security Tools
+  -  Week 4: Final Project – Build a Secure CI/CD Pipeline
+-  Month 12: Cloud Security Fundamentals
+  -  Week 1: Introduction to Cloud Security and Cloud Service Models
+  -  Week 2: Identity and Access Management (IAM)
+  -  Week 3: Network Security in the Cloud 
+  -  Week 4: Data Security and Compliance in the Cloud
+-  Final Project: Deploy an App in the Cloud
