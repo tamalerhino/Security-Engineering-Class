@@ -52,7 +52,7 @@ Follow this tutorial on practical basic encryption (no sign-up required):
 **Resources:**
 - [PKI](https://www.youtube.com/watch?v=GSIDS_lvRv4)  
 - [What Are Digital Signatures?](https://www.youtube.com/watch?v=s22eJ1eVLTU)
-**Lab:** Go through the following exercise: Digital Signature Exercise with OpenSSL
+**Lab:** Go through the following exercise: [Digital Signature Exercise with OpenSSL](Supporting%20Documents/Digital_Signature_Exercise_with_OpenSSL.md)
 
 
 
@@ -70,7 +70,7 @@ Follow this tutorial on practical basic encryption (no sign-up required):
 - [Elliptical Curves](https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PLvHL6JNW0PtM51fylnlpcuC9YeKSIyLiM&index=4)  
 - [Elliptical Curve Backdoor](https://www.youtube.com/watch?v=nybVFJVXbww&list=PLvHL6JNW0PtM51fylnlpcuC9YeKSIyLiM&index=5)
 
-**Lab:** Go through the following exercise: TLS Exercise with OpenSSL
+**Lab:** Go through the following exercise: [TLS Exercise with OpenSSL](Supporting%20Documents/TLS_Exercise_with_OpenSSL.md)
 
 
 ## Week 2: Cryptographic Hashing and HMAC
@@ -83,7 +83,7 @@ Follow this tutorial on practical basic encryption (no sign-up required):
 - [Hashing and Digital Signatures (HMAC)](https://www.youtube.com/watch?v=ODeivrc8Z_g&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv&index=11)  
 - [Additional HMAC Overview](https://www.youtube.com/watch?v=NytTScP4k7g&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv&index=13)
 
-**Lab:** Go through the following exercise: Hashing Exercise: Exploring Hash Functions with SHA-256
+**Lab:** Go through the following exercise: Hashing Exercise: [Exploring Hash Functions with SHA-256](Supporting%20Documents/hashing_excercise.md)
 
 
 ## Week 3: Introduction to HSMs
@@ -123,7 +123,7 @@ Follow this tutorial on practical basic encryption (no sign-up required):
 - [Factors of Authentication](https://www.youtube.com/watch?v=LB_lBMWH4-s)  
 - [OAuth 2.0 Overview](https://www.youtube.com/watch?v=996OiexHze0)
 
-**Lab:** Go through the following exercise: Authenticating to API's Using Github
+**Lab:** Go through the following exercise: [Authenticating to API's Using Github](Supporting%20Documents/Authenticating_to_APIs_Using_Github.md)
 
 
 ## Week 2: SQL Injection
